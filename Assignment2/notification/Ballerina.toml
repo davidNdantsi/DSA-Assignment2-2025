@@ -1,0 +1,9 @@
+# Ballerina.toml for notification service
+[package]
+org = "david"
+name = "notification"
+version = "0.1.0"
+distribution = "2201.12.9"
+
+[build-options]
+observabilityIncluded = true

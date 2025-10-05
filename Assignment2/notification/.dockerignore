@@ -1,0 +1,31 @@
+# File: notification-service/.dockerignore
+
+# Build artifacts
+target/
+.ballerina/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+# Logs
+*.log
+
+# Git
+.git/
+.gitignore
+
+# Docker files
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Documentation
+README.md
+*.md
+
+# Test files
+tests/
+*_test.bal
