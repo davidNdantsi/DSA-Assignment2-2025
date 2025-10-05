@@ -1,0 +1,12 @@
+target/
+.bin/
+.cache/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+.DS_Store
+.env
+node_modules/
+.git
